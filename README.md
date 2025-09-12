@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gSldEXG6)
-# Welcome to ○팀
+# Welcome to 7팀
 
 ## 1️⃣ 팀원 소개
 
@@ -11,8 +11,7 @@
 | **이수민** | 인공지능전공 |  |
 | **앤흐투르** | 인공지능전공 | 인공지능, 스타트업, 알고리즘 |
 
-유레카프로젝트 프로젝트 팀 생성을 축하합니다.
-유레카프로젝트 프로젝트 팀의 제목과 팀원의 이름 및 관심사를 변경하세요.
+
 
 ### 팀 슬로건
 
