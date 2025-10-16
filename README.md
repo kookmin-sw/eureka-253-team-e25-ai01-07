@@ -123,7 +123,7 @@ AI도, 우리도 학습중
 
 10. 사람 같은 인공지능 인공지능이 더 이상 도구가 아닌 인생의 동반자로 인공지능과 연인이 되거나 친구가 되는 세상
 
-<img src="https://github.com/kookmin-sw/eureka-253-team-e25-ai01-07/issues/1#issue-3520245208" width= "330" height="190"/>
+<img src="https://github.com/kookmin-sw/eureka-253-team-e25-ai01-07/issues/1#issue-3520245208.png? text=미래그림" width= "330" height="190"/>
  
   - 우리가 그리는 미래 그리고 나
 
