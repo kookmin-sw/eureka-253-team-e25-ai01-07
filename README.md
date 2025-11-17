@@ -37,6 +37,8 @@ AI도, 우리도 학습중
 - 멘토링 ✔️  
   - 내 지도 교수 함게 만나기
   - 대학원 방문 및 선배 만나기
+  - ![KakaoTalk_20251117_150250224](https://github.com/user-attachments/assets/aebc798f-c436-445a-a6fa-6dade3a14463)
+
 
 - 프로젝트 진행 ✔️  
   - 과거에 사람들이 상상한 미래
